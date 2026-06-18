@@ -1,6 +1,6 @@
 ## <div align="center">Hi!👋 My name is Matias Medina </div>
 
-<br></br>
+
 
 ### <div align="center">I'm a Student of Nacional technologic university, Argentina. Still in the process of learning in the world of Web Development</div>
 
