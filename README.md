@@ -1,72 +1,48 @@
-## <div align="center">Hi!👋 My name is Matias Medina </div>
+<h1 align="center">Hi, I'm Matias Medina 👋</h1>
 
+<p align="center">
+  <b>Backend Java developer</b> · Spring Boot · REST APIs · SQL · Angular<br>
+  Villa María, Córdoba, Argentina · <b>Open to work</b> (remote, hybrid or on-site)
+</p>
 
+<p align="center">
+  <a href="mailto:matimedina111@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/matias-medina-german/">LinkedIn</a>
+</p>
 
-### <div align="center">I'm a qualified programming technician, having graduated from the National Technological University in Argentina. I am still in the process of learning within the world of software development.</div>
-<br></br>
+## About me
 
--  I’m currently looking for job
+I'm a software development technician (UTN, Argentina) focused on backend development with Java and Spring Boot. I build full-stack applications with clean layered architecture, REST APIs, relational databases and automated tests, and I enjoy shipping things real businesses can use.
 
+<sub>🇦🇷 Soy técnico superior en desarrollo de software (UTN) y me enfoco en backend con Java y Spring Boot. Armo aplicaciones full-stack con arquitectura en capas, APIs REST, bases de datos relacionales y tests automatizados. Estoy buscando mi primer rol como desarrollador.</sub>
 
--  I’m currently learning ReactJS and NodeJS
+## Featured projects
 
+| Project | What it is | Stack |
+|---------|------------|-------|
+| [**agente-ia-local**](https://github.com/MatiasMedina846/agente-ia-local) | Multi-tenant WhatsApp AI assistant for local shops: hybrid RAG, audio transcription, guardrails against wrong prices, human handoff and weekly reports. | Java 17, Spring Boot, PostgreSQL + pgvector, Ollama, Docker |
+| [**Turnero**](https://github.com/MatiasMedina846/Turnero) | Appointment scheduling that never double-books an employee (transactional + row locking), with unit, integration and concurrency tests and CI. | Java 21, Spring Boot, Angular, PostgreSQL, GitHub Actions |
+| [**Profesional Stock**](https://matiasmedina846.github.io/Profesional-Stock---Landing/) | Offline POS and inventory system for small businesses: [product site](https://github.com/MatiasMedina846/Profesional-Stock---Landing) plus an AI assistant (Cloudflare Worker + Claude API). | HTML/CSS/JS, Cloudflare Workers |
+| [**Notes App**](https://github.com/MatiasMedina846/Notes-Aplication) | Full-stack notes manager with tags and archiving. | Spring Boot, MySQL, Angular |
 
--  You can Email Me Through [Here](matimedina111@gmail.com)
+## Tech stack
 
+**Languages:** Java · TypeScript / JavaScript · SQL · HTML / CSS · Python (basic)
 
-## Tech Stack
+**Backend:** Spring Boot · Spring Data JPA / Hibernate · REST APIs · JWT · Bean Validation · Maven
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>Languages</b><br>
-       <br></br>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-      <img src="https://img.shields.io/badge/css-%2323663399.svg?style=for-the-badge&logo=css&logoColor=white">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-      <br><br>
-      <b>Artificial Intelligence and Bots</b><br>
-   <br></br>
-      <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white">
-      <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-      <br><br>
-      <b>Databases</b><br>
-      <br></br>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-      <br><br>
-      <b>Frameworks, Platforms and Libraries</b><br>
-   <br></br>
-      <img src="https://img.shields.io/badge/angular.js-%23232337.svg?style=for-the-badge&logo=angularjs&logoColor=white">
-      <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white">
-      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-      <br><br>
-      <b>DevOps</b><br>
-   <br></br>
-      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-    </td>
-</table>
+**Databases:** PostgreSQL · MySQL · SQL Server · MongoDB (basic)
 
-## Connect with me
-<div align="center">
-<a href="https://github.com/MatiasMedina846" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="linkedin.com/in/matias-medina-german/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-<br/>
-<div align="center" style="display:inline-block;flex-wrap:nowrap";>
+**Frontend:** Angular · Bootstrap
 
-##
+**Testing & tools:** JUnit 5 · Mockito · Postman · Git / GitHub · GitHub Actions · Docker · Jira
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+**AI:** LLM integration (Ollama, OpenAI Whisper and embeddings, Claude API) · RAG
 
-</div>
+## Currently
+
+- Polishing the projects above: tests, CI and live demos.
+- Looking for a **junior backend / Java developer** role.
+
+---
+<p align="center">📫 <a href="mailto:matimedina111@gmail.com">matimedina111@gmail.com</a> · <a href="https://www.linkedin.com/in/matias-medina-german/">linkedin.com/in/matias-medina-german</a></p>
