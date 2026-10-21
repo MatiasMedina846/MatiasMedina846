@@ -66,7 +66,7 @@ I'm a software development technician (UTN, Argentina) focused on backend develo
 ## 🛠️ Tech stack
 
 <p>
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,mongodb,angular,ts,js,html,css,bootstrap,docker,git,github,githubactions,postman,jira,python&perline=10" />
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,mongodb,angular,ts,js,html,css,bootstrap,docker,git,github,githubactions,postman,python&perline=10" />
 </p>
 
 **Languages:** Java · TypeScript / JavaScript · SQL · HTML / CSS · Python (basic)<br>
@@ -79,8 +79,8 @@ I'm a software development technician (UTN, Argentina) focused on backend develo
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MatiasMedina846&show_icons=true&hide_border=true&theme=default&count_private=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMedina846&layout=compact&hide_border=true&theme=default&langs_count=6" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MatiasMedina846&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true&count_private=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMedina846&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
 </p>
 
 ## 🎯 Currently
