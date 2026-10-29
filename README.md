@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Villa María, Córdoba, Argentina · 🟢 <b>Open to work</b> (remote, hybrid or on-site)
+  📍 Argentina · 🟢 <b>Open to work</b> (remote, hybrid or on-site)
 </p>
 
 <p align="center">
